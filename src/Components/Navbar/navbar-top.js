@@ -9,18 +9,14 @@ import percent  from '../../img/percent.png';
 import handshake  from '../../img/handshake.png';
 import save  from '../../img/save.png';
 import datcho  from '../../img/datcho.png';
-
+import Demo from './DangNhap';
 
 const menu = (
     <Menu>
       <Menu.Item key="0">
-        <a href="https://www.antgroup.com">1st menu item</a>
+        <Demo />
       </Menu.Item>
-      <Menu.Item key="1">
-        <a href="https://www.aliyun.com">2nd menu item</a>
-      </Menu.Item>
-      <Menu.Divider />
-      <Menu.Item key="3">3rd menu item</Menu.Item>
+      
     </Menu>
   );
 class NavbarMenu extends Component{
