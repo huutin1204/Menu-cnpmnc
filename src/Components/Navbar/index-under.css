@@ -1,0 +1,25 @@
+.menu-2{
+    color:#696969   ;   
+    background-color: #F6F6F6;
+    margin-left: 45px;
+    margin-right: 45px;
+   padding: 0px 80px;
+
+   min-width: 730px;
+   max-width: 1280px;
+   height: 36px;
+
+   font-size: 14px;
+   display: flex;
+   
+   
+}
+
+ #menu-1{
+     margin-right: 30px;
+     
+ }
+
+ 
+ 
+

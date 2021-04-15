@@ -1,0 +1,37 @@
+.menu-1{
+   margin-left: 9%;
+   color:#696969;
+   
+}
+
+.log-in{
+    border-style: none;
+    font-family: MuseoSans,sans-serif;
+    color:#0770CD;
+    font-weight: 500;
+}
+
+.logo{
+    width: 135px; 
+    height: 43px;
+    margin-right: 200px;
+}
+
+#menu-items{
+    padding: 0 12px;
+    font-size: 14px;
+    margin-right: -20px;
+}
+
+.item-1{
+    margin-left: 200px;
+}
+
+.logo-items{
+    margin-right: 5px;
+}
+
+.sign-in{
+    font-weight: 700px;
+    
+}
