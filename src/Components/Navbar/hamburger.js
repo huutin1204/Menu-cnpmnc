@@ -115,7 +115,7 @@ const Hamburger = () => {
         <img className="logo-items" src={jrpass} alt="jrpass" />
           JR Pass</Menu.Item>  
     </Menu>
-    <p>bi5 sua</p>
+
          
       </Drawer>
 
