@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Menu } from 'antd';
 import 'antd/dist/antd.css';
-import './index-under.css';
+import './navbar-bot.css';
 import plane  from '../../img/plane.png';
 import hotel  from '../../img/hotel.png';
 import tietkiem  from '../../img/tietkiem.png';

@@ -3,7 +3,7 @@ import { Menu, Button , Dropdown} from 'antd';
 import 'antd/dist/antd.css';
 import { DownOutlined } from '@ant-design/icons';
 import Hamburger from './hamburger'
-import './navbar.css';
+import './navbar-top.css';
 import traveloka_logo  from '../../img/traveloka_logo.png';
 import percent  from '../../img/percent.png';
 import handshake  from '../../img/handshake.png';

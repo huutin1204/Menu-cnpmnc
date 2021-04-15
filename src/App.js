@@ -1,7 +1,7 @@
 
 import './App.css';
-import NavbarMenu from './Components/Navbar/index'
-import NavbarMenu2 from './Components/Navbar/index-under'
+import NavbarMenu from './Components/Navbar/navbar-top'
+import NavbarMenu2 from './Components/Navbar/navbar-bot'
 
 function App() {
   return (
